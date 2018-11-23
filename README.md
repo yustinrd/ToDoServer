@@ -16,4 +16,4 @@ npm start
 
 ## API
 
-https://www.getpostman.com/collections/a88fad839a069f9c9304
+https://www.getpostman.com/collections/c65a705c69a827287395
