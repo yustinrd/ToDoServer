@@ -1,9 +1,16 @@
-## Installation
+## Getting started
+
 
 Install ToDo Server 
 
 ```sh
 npm i
+```
+
+Start  Server
+
+```bash
+npm start
 ```
 
 
